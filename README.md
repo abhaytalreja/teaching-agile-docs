@@ -2,7 +2,7 @@
 
 Welcome to [TeachingAgile.com](https://teachingagile.com/ "Teaching Agile"), your one-stop source for learning Agile methodologies and principles. Our website offers comprehensive courses, articles, and resources to help you excel in the Agile world. Whether you are a beginner or an experienced professional, TeachingAgile.com will help you enhance your skills and advance your career.
 
-![TeachingAgile Screenshot Placeholder](https://chat.openai.com/chat/screenshot-placeholder.jpg)
+![TeachingAgile Screenshot](https://teachingagile.com/teachingAgileWebSnapshot.png)
 
 ## Demo
 
