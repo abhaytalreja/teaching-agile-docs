@@ -17,7 +17,7 @@ Experience our interactive and engaging courses by exploring our [demo](https://
 
 ## Found an Issue?
 
-If you find any defects in our documentation, please [log a GitHub issue](https://github.com/abhaytalreja/teachingagile/issues). We appreciate your contribution in helping us maintain accurate and up-to-date content.
+If you find any defects in our documentation, please [log a GitHub issue](https://github.com/abhaytalreja/teaching-agile-docs/issues). We appreciate your contribution in helping us maintain accurate and up-to-date content.
 
 ## Author
 
