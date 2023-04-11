@@ -25,4 +25,4 @@ TeachingAgile.com is created and maintained by [Abhay Talreja](https://teachinga
 
 ## License
 
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE](/blob/main/LICENSE.md).
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](/LICENSE).
